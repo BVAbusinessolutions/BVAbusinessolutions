@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="#-sobre-nosotros"><img src="https://img.shields.io/badge/Status-Disponible_para_Proyectos-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Focus-Fullstack_%26_Automation-7B2CBF?style=for-the-badge&logo=codefactor&logoColor=white" /></a>
+  <a href="#-tech-stack--tecnologías"><img src="https://img.shields.io/badge/Focus-Fullstack_%26_Automation-7B2CBF?style=for-the-badge&logo=codefactor&logoColor=white" /></a>
 </p>
 
 <br />
 
 ## 🏢 Sobre Nosotros
 
-En **BVA Business Solutions**, transformamos ideas y necesidades operativas en **productos digitales de alto rendimiento**[cite: 1]. Somos un equipo multidisciplinario especializado en el desarrollo de plataformas web modernas, arquitectura frontend limpia, integración de APIs y automatización inteligente de procesos de negocio.
+En **BVA Business Solutions**, transformamos ideas y necesidades operativas en **productos digitales de alto rendimiento**. Somos un equipo multidisciplinario especializado en el desarrollo de plataformas web modernas, arquitectura frontend limpia, integración de APIs y automatización inteligente de procesos de negocio.
 
 - ⚡ **Enfoque Principal:** Arquitectura de software modular, excelente experiencia de usuario (UX/UI) y alta disponibilidad.
 - 🎨 **Estilo Visual:** Interfaces modernas con estética Glassmorphism, diseños simétricos, animaciones e íconos SVG vectoriales.
@@ -56,18 +56,19 @@ En **BVA Business Solutions**, transformamos ideas y necesidades operativas en *
 | Área de Solución | Descripción y Capacidades Clave |
 | :--- | :--- |
 | **🌐 Portales Intranet & Módulos Administrativos** | Sistemas web corporativos con autenticación segura, control de roles y gestión de usuarios. |
-| **📊 Dashboard Financieros & Facturación** | Paneles interactivos con gráficos en tiempo real, gestión de transacciones e historial exportable[cite: 3]. |
-| **📅 Sistemas de Reservas & Citas Express** | Formularios optimizados para reservación rápida, gestión de calendario e interfaces dinámicas[cite: 3]. |
-| **🎓 Plataformas Educativas e Institucionales** | Control de notas, seguimiento de cursos, registros académicos y préstamo de recursos[cite: 3]. |
+| **📊 Dashboard Financieros & Facturación** | Paneles interactivos con gráficos en tiempo real, gestión de transacciones e historial exportable. |
+| **📅 Sistemas de Reservas & Citas Express** | Formularios optimizados para reservación rápida, gestión de calendario e interfaces dinámicas. |
+| **🎓 Plataformas Educativas e Institucionales** | Control de notas, seguimiento de cursos, registros académicos y préstamo de recursos. |
 | **🔄 Auto-Sincronización & Webhooks** | Captura e interpretación de datos climáticos o métricas en tiempo real con alertas personalizadas. |
 
 ---
 
-## 📈 Métricas de Desarrollo en GitHub
+## 📈 Métricas & Actividad
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BVAbusinessolutions&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVAbusinessolutions&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/badge/Projects-Web_&_Enterprise_Apps-00F5D4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_&_Modular-7B2CBF?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Deployments-Continuous_Integration-F7DF1E?style=for-the-badge&logo=vercel&logoColor=black" />
 </p>
 
 ---
